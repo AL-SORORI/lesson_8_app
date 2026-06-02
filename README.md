@@ -20,5 +20,5 @@ samples, guidance on mobile development, and a full API reference.
 
 <p align="center">
   <img src="Login.jpg" width="300" alt="شاشة تسجيل الدخول" style="margin: 10px;">
-  <img src="home.jpg" width="300" alt="الشاشة الرئيسية" style="margin: 10px;">
+  <img src="hello.jpg" width="300" alt="الشاشة الرئيسية" style="margin: 10px;">
 </p>
