@@ -19,6 +19,6 @@ samples, guidance on mobile development, and a full API reference.
 ### 📱 مخرجات التطبيق (Screenshots)
 
 <p align="center">
-  <img src="login.png" width="300" alt="شاشة تسجيل الدخول" style="margin: 10px;">
-  <img src="home.png" width="300" alt="الشاشة الرئيسية" style="margin: 10px;">
+  <img src="Login.jpg" width="300" alt="شاشة تسجيل الدخول" style="margin: 10px;">
+  <img src="home.jpg" width="300" alt="الشاشة الرئيسية" style="margin: 10px;">
 </p>
